@@ -1,0 +1,82 @@
+/* Global Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #6D2C8B, #1E3C72);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    background-size: cover;
+    text-align: center;
+  }
+  
+  /* Quiz Container */
+  #quiz-container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    width: 450px;
+    max-width: 100%;
+    position: relative;
+    z-index: 10;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #fff;
+    font-weight: 600;
+  }
+  
+  button {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  button:hover {
+    transform: scale(1.05);
+  }
+  
+  .option {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .option:hover {
+    background-color: #FF4081;
+  }
+  
+  #next-button {
+    background-color: #00C853;
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  #next-button:disabled {
+    background-color: #757575;
+    cursor: not-allowed;
+  }
+  
+  /* Result Styles */
+  #result {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FF4081;
+  }
+  
+  #result.congrats {
+    color: #00C853;
+  }
+  
