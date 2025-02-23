@@ -1,5 +1,5 @@
 🧠 QuizMaster – A Programming Quiz App 🎯
-I’m excited to share QuizMaster, a web-based quiz app designed to test and improve programming knowledge! This interactive quiz contains 15 programming-related questions, covering various topics like C, Java, Python, JavaScript, and more. Built using HTML, CSS, and JavaScript, the app provides an engaging and fun way to learn and challenge coding skills.
+I’m excited to share QuizMaster, a web-based quiz app designed to test and improve programming knowledge! This interactive quiz contains 15 programming-related questions, covering various topics like C, JAVA, PYTHON, JAVASCRIPT, and more. Built using HTML, CSS, and JavaScript, the app provides an engaging and fun way to learn and challenge coding skills.
 
 📌 Features of QuizMaster:
 ✅ 15 Programming Questions – Covers C, Java, Python, JavaScript, and more.
