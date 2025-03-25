@@ -17,4 +17,4 @@ I’m excited to share QuizMaster, a web-based quiz app designed to test and imp
 🎯 Who Can Use It?
 🔹 Students learning programming concepts.
 🔹 Developers testing their coding knowledge.
-🔹 Anyone preparing for coding interviews and assessments
+🔹 Anyone preparing for coding interviews and assessments.
